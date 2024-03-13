@@ -1,0 +1,2 @@
+scene.screenWidth()
+scene.screenHeight()
